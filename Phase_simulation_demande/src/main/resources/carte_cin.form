@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "label": "Carte d'identité",
+      "type": "textfield",
+      "id": "Field_1cb3i6e",
+      "key": "field_1n2tbjz"
+    }
+  ],
+  "type": "default",
+  "id": "carte",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

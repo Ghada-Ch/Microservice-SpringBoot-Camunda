@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/camunda
+    username: root
+    password:
+server:
+  port: 8080
+
+camunda.bpm:
+  admin-user:
+    id: demo
+    password: demo
+  filter:
+    create: All tasks
